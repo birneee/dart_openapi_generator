@@ -8,7 +8,7 @@ Dart dev tool to download OpenAPI file and generate the OpenAPI client.
 ## Supported Download Sources
 - private Gitlab repositories
 
-## Include in your projects `pubspec.yaml`
+## Include in your project's `pubspec.yaml`
 
 ```yaml
 dev_dependencies:
