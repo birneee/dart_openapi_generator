@@ -1,4 +1,4 @@
-import 'package:dart_openapi_generator/utils.dart';
+import 'package:openapi/utils.dart';
 
 import 'generate.dart';
 

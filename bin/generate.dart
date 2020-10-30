@@ -1,7 +1,7 @@
 import 'dart:io';
 
 import 'package:http/http.dart' as http;
-import 'package:dart_openapi_generator/utils.dart';
+import 'package:openapi/utils.dart';
 import 'package:path/path.dart' as p;
 import 'package:yaml/yaml.dart';
 
