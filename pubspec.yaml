@@ -1,0 +1,8 @@
+name: dart_openapi_generator
+version: 0.0.1
+environment:
+  sdk: ">=2.0.0 <3.0.0"
+dependencies:
+  yaml: ^2.1.15
+  http: ^0.12.2
+  path: ^1.7.0
