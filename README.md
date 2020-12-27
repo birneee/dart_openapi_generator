@@ -3,7 +3,7 @@
 Dart dev tool to download OpenAPI file and generate the OpenAPI client.
 
 ## Requirements
-- `openapi-generator` installed on system path (https://github.com/OpenAPITools/openapi-generator)
+- java version 8 or above installed on system path
 
 ## Supported Download Sources
 - private Gitlab repositories
@@ -15,9 +15,10 @@ dev_dependencies:
   openapi:
     git:
       url: https://github.com/birneee/dart_openapi_generator.git
-      ref: 0.3.0
+      ref: 0.4.0
 
 openapi:
+  generatorVersion: <version>
   url: <url>
   token: <token>
   version: <tag>

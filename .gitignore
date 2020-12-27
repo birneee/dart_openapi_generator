@@ -3,3 +3,5 @@
 /.vscode
 /.packages
 /pubspec.lock
+/build
+/lib/generated
